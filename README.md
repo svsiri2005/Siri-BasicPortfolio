@@ -2,12 +2,6 @@
 
 My personal portfolio website built using HTML and CSS.
 
-## Features
-- Responsive Design
-- About Me Section
-- Skills Section
-- Projects Section
-- Contact Section
 
 ## Technologies Used
 - HTML
@@ -15,3 +9,6 @@ My personal portfolio website built using HTML and CSS.
 
 ## Author
 Siri
+
+## Live
+https://svsiri2005.github.io/Siri-BasicPortfolio/
